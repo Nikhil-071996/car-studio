@@ -1,0 +1,11 @@
+Model Information:
+* title:	2014 Porsche 911 Turbo (991)
+* source:	https://sketchfab.com/3d-models/2014-porsche-911-turbo-991-0fadf286b5804c03ac2e35d5db6c8a91
+* author:	Ddiaz Design (https://sketchfab.com/ddiaz-design)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2014 Porsche 911 Turbo (991)" (https://sketchfab.com/3d-models/2014-porsche-911-turbo-991-0fadf286b5804c03ac2e35d5db6c8a91) by Ddiaz Design (https://sketchfab.com/ddiaz-design) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

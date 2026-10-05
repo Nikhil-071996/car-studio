@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lamborghini Diablo SV 1998
+* source:	https://sketchfab.com/3d-models/lamborghini-diablo-sv-1998-ebbd0d5fab0f4d088a8af10b4b94ac54
+* author:	Samantha Smith (https://sketchfab.com/Samantha_Smith)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lamborghini Diablo SV 1998" (https://sketchfab.com/3d-models/lamborghini-diablo-sv-1998-ebbd0d5fab0f4d088a8af10b4b94ac54) by Samantha Smith (https://sketchfab.com/Samantha_Smith) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

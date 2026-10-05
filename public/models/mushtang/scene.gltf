@@ -1,0 +1,1167 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.8736263513565063,
+        2.2907209396362305,
+        1.269036889076233
+      ],
+      "min": [
+        -0.8736263513565063,
+        -2.3445568084716797,
+        0.26500922441482544
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.999527633190155,
+        0.9993739128112793
+      ],
+      "min": [
+        0.00019627809524536133,
+        0.00019589609291870147
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 302121,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 24160,
+      "max": [
+        0.8694010376930237,
+        2.3070945739746094,
+        1.332087516784668
+      ],
+      "min": [
+        -0.8694010972976685,
+        -2.257589340209961,
+        0.2441006302833557
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1862688,
+      "componentType": 5126,
+      "count": 24160,
+      "max": [
+        1.0,
+        0.9999992847442627,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999956488609314,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 24160,
+      "max": [
+        0.9999989867210388,
+        1.0,
+        0.9999961853027344,
+        1.0
+      ],
+      "min": [
+        -0.9999989867210388,
+        -1.0,
+        -0.9999921917915344,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 24160,
+      "max": [
+        0.9996196031570435,
+        0.9505069255828857
+      ],
+      "min": [
+        0.000229567289352417,
+        0.0001997053623199463
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1208484,
+      "componentType": 5125,
+      "count": 98379,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2152608,
+      "componentType": 5126,
+      "count": 4022,
+      "max": [
+        0.743556022644043,
+        1.6641573905944824,
+        1.2607852220535278
+      ],
+      "min": [
+        -0.7435559630393982,
+        -0.6837801337242126,
+        0.8862190246582031
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2200872,
+      "componentType": 5126,
+      "count": 4022,
+      "max": [
+        0.9936518669128418,
+        0.9974514842033386,
+        0.9998766779899597
+      ],
+      "min": [
+        -0.9936516880989075,
+        -0.9999656081199646,
+        -0.9998766183853149
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1435072,
+      "componentType": 5126,
+      "count": 4022,
+      "max": [
+        0.9842405915260315,
+        0.9999805688858032,
+        0.9999927878379822,
+        1.0
+      ],
+      "min": [
+        -0.9849838018417358,
+        -0.9999765157699585,
+        -0.9941039085388184,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 717536,
+      "componentType": 5126,
+      "count": 4022,
+      "max": [
+        0.9982452392578125,
+        0.9961251616477966
+      ],
+      "min": [
+        0.0005912692868150771,
+        0.0005842412356287241
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1602000,
+      "componentType": 5125,
+      "count": 20436,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2249136,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.8401362299919128,
+        1.5931103229522705,
+        0.652344822883606
+      ],
+      "min": [
+        -0.8398919701576233,
+        -1.7606663703918457,
+        0.0005006492137908936
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3035520,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.999999463558197,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1499424,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999594688415527,
+        0.9998654723167419,
+        0.9999839663505554,
+        1.0
+      ],
+      "min": [
+        -0.9999733567237854,
+        -0.9998720288276672,
+        -0.9999904632568359,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 749712,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999895691871643,
+        0.9931867122650146
+      ],
+      "min": [
+        0.00021189451217651367,
+        0.00021144682250451297
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1683744,
+      "componentType": 5125,
+      "count": 315201,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3821904,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.8393006920814514,
+        1.5941898822784424,
+        0.6532677412033081
+      ],
+      "min": [
+        -0.8390563726425171,
+        -1.7606545686721802,
+        -0.0004182755947113037
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4608288,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 2547936,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999923706054688,
+        1.0,
+        0.9999938011169434,
+        1.0
+      ],
+      "min": [
+        -0.9999933838844299,
+        -0.9999999403953552,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1273968,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999570846557617,
+        0.9964807629585266
+      ],
+      "min": [
+        0.00020825862884521484,
+        0.00020544053404591978
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2944548,
+      "componentType": 5125,
+      "count": 254637,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5394672,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.7316842675209045,
+        1.5942223072052002,
+        0.6532677412033081
+      ],
+      "min": [
+        -0.7314400672912598,
+        -1.7617783546447754,
+        -0.0004182755947113037
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6181056,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.0,
+        1.0,
+        0.9999998211860657
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9999998211860657
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 3596448,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999945759773254,
+        0.9999997019767761,
+        0.9999986290931702,
+        1.0
+      ],
+      "min": [
+        -0.9999945759773254,
+        -0.999994158744812,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1798224,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9990781545639038,
+        0.9965600371360779
+      ],
+      "min": [
+        0.00025980768259614706,
+        0.0002065598964691162
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 3963096,
+      "componentType": 5125,
+      "count": 256899,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6967440,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.8393006920814514,
+        1.5932899713516235,
+        0.6532677412033081
+      ],
+      "min": [
+        -0.8390563726425171,
+        -1.7617783546447754,
+        -0.0004182755947113037
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 7753824,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.0,
+        0.9999992251396179,
+        0.9999998211860657
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9999998211860657
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 4644960,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999932646751404,
+        1.0,
+        0.9999986290931702,
+        1.0
+      ],
+      "min": [
+        -0.9999940395355225,
+        -0.9999999403953552,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2322480,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.0001980066299438,
+        0.9965245723724365
+      ],
+      "min": [
+        0.00020968914031982422,
+        0.0002076055679935962
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 4990692,
+      "componentType": 5125,
+      "count": 223770,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 8540208,
+      "componentType": 5126,
+      "count": 11433,
+      "max": [
+        0.8393006920814514,
+        1.1285306215286255,
+        0.652344822883606
+      ],
+      "min": [
+        -0.8390563726425171,
+        -1.7606663703918457,
+        0.03605914115905762
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 8677404,
+      "componentType": 5126,
+      "count": 11433,
+      "max": [
+        0.999999463558197,
+        0.9998800754547119,
+        0.9999980926513672
+      ],
+      "min": [
+        -0.9999994039535522,
+        -0.9998762011528015,
+        -0.9999967813491821
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 5693472,
+      "componentType": 5126,
+      "count": 11433,
+      "max": [
+        0.9999938011169434,
+        0.999991774559021,
+        0.9999979138374329,
+        1.0
+      ],
+      "min": [
+        -0.9999911189079285,
+        -0.9999889135360718,
+        -0.9999765157699585,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2846736,
+      "componentType": 5126,
+      "count": 11433,
+      "max": [
+        0.958926796913147,
+        0.9901508688926697
+      ],
+      "min": [
+        0.0003076791763305664,
+        0.002411764580756426
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 5885772,
+      "componentType": 5125,
+      "count": 43653,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 8814600,
+      "componentType": 5126,
+      "count": 280,
+      "max": [
+        0.8244737982749939,
+        2.113874673843384,
+        1.2828689813613892
+      ],
+      "min": [
+        -0.8244737982749939,
+        -2.0395143032073975,
+        0.2576332092285156
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 8817960,
+      "componentType": 5126,
+      "count": 280,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2938200,
+      "componentType": 5126,
+      "count": 280,
+      "max": [
+        0.45663830637931824,
+        0.001995326252654195
+      ],
+      "min": [
+        0.45663830637931824,
+        0.001995326252654195
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 6060384,
+      "componentType": 5125,
+      "count": 864,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Mark Peters (https://sketchfab.com/mark-peters)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/1967-ford-mustang-fastback-4096px2-02933292f4d64a52a9bec5923e24b0af",
+      "title": "1967 Ford Mustang Fastback - 4096px²"
+    },
+    "generator": "Sketchfab-17.8.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 6063840,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2940440,
+      "byteOffset": 6063840,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8821320,
+      "byteOffset": 9004280,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5876400,
+      "byteOffset": 17825600,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 23702000,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_clearcoat",
+    "KHR_materials_specular"
+  ],
+  "images": [
+    {
+      "uri": "textures/FordMustang_MTL_baseColor.png"
+    },
+    {
+      "uri": "textures/FordMustang_MTL_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/FordMustang_MTL_emissive.png"
+    },
+    {
+      "uri": "textures/FordMustang_MTL_normal.png"
+    },
+    {
+      "uri": "textures/FordMustangWindow_MTL_baseColor.png"
+    },
+    {
+      "uri": "textures/FordMustangWindow_MTL_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/FordMustangWindow_MTL_normal.png"
+    },
+    {
+      "uri": "textures/FordMustangWheels_MTL_baseColor.png"
+    },
+    {
+      "uri": "textures/FordMustangWheels_MTL_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/FordMustangWheels_MTL_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 2
+      },
+      "name": "FordMustang_MTL",
+      "normalTexture": {
+        "index": 3
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "extensions": {
+        "KHR_materials_clearcoat": {
+          "clearcoatFactor": 1.0,
+          "clearcoatRoughnessFactor": 0.0
+        },
+        "KHR_materials_specular": {
+          "specularColorFactor": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "specularFactor": 1.0
+        }
+      },
+      "name": "FordMustangWindow_MTL",
+      "normalTexture": {
+        "index": 6
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      }
+    },
+    {
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularColorFactor": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "specularFactor": 0.4
+        }
+      },
+      "name": "FordMustangWheels_MTL",
+      "normalTexture": {
+        "index": 9
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 7
+        },
+        "metallicRoughnessTexture": {
+          "index": 8
+        }
+      }
+    },
+    {
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularColorFactor": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "specularFactor": 0.0
+        }
+      },
+      "name": "Blackout_MTL",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Ford Mustang_FordMustang_MTL_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Ford Mustang_FordMustang_MTL_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Ford Mustang_FordMustangWindow_MTL_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Ford Mustang_FordMustangWheels_MTL_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TANGENT": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Ford Mustang_FordMustangWheels_MTL_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TANGENT": 22,
+            "TEXCOORD_0": 23
+          },
+          "indices": 24,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Ford Mustang_FordMustangWheels_MTL_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 26,
+            "POSITION": 25,
+            "TANGENT": 27,
+            "TEXCOORD_0": 28
+          },
+          "indices": 29,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Ford Mustang_FordMustangWheels_MTL_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 31,
+            "POSITION": 30,
+            "TANGENT": 32,
+            "TEXCOORD_0": 33
+          },
+          "indices": 34,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Ford Mustang_FordMustangWheels_MTL_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 36,
+            "POSITION": 35,
+            "TANGENT": 37,
+            "TEXCOORD_0": 38
+          },
+          "indices": 39,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Ford Mustang_Blackout_MTL_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 41,
+            "POSITION": 40,
+            "TEXCOORD_0": 42
+          },
+          "indices": 43,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "432877d6d94842bb8cd3f4aa9b60c75a.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Ford Mustang"
+    },
+    {
+      "mesh": 0,
+      "name": "Ford Mustang_FordMustang_MTL_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Ford Mustang_FordMustang_MTL_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Ford Mustang_FordMustangWindow_MTL_0"
+    },
+    {
+      "mesh": 3,
+      "name": "Ford Mustang_FordMustangWheels_MTL_0"
+    },
+    {
+      "mesh": 4,
+      "name": "Ford Mustang_FordMustangWheels_MTL_0"
+    },
+    {
+      "mesh": 5,
+      "name": "Ford Mustang_FordMustangWheels_MTL_0"
+    },
+    {
+      "mesh": 6,
+      "name": "Ford Mustang_FordMustangWheels_MTL_0"
+    },
+    {
+      "mesh": 7,
+      "name": "Ford Mustang_FordMustangWheels_MTL_0"
+    },
+    {
+      "mesh": 8,
+      "name": "Ford Mustang_Blackout_MTL_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    },
+    {
+      "sampler": 0,
+      "source": 9
+    }
+  ]
+}

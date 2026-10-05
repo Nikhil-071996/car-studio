@@ -1,0 +1,11 @@
+Model Information:
+* title:	2002 Honda NSX-R NA2
+* source:	https://sketchfab.com/3d-models/2002-honda-nsx-r-na2-d739f06174d04493a0a04a4db3be5645
+* author:	SIU Car Garage (https://sketchfab.com/Game_mode)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2002 Honda NSX-R NA2" (https://sketchfab.com/3d-models/2002-honda-nsx-r-na2-d739f06174d04493a0a04a4db3be5645) by SIU Car Garage (https://sketchfab.com/Game_mode) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

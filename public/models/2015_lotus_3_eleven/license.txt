@@ -1,0 +1,11 @@
+Model Information:
+* title:	2015 Lotus 3 Eleven
+* source:	https://sketchfab.com/3d-models/2015-lotus-3-eleven-d63c1150da8e45f88e526c99cc889bfd
+* author:	OUTPISTON (https://sketchfab.com/outpiston)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2015 Lotus 3 Eleven" (https://sketchfab.com/3d-models/2015-lotus-3-eleven-d63c1150da8e45f88e526c99cc889bfd) by OUTPISTON (https://sketchfab.com/outpiston) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
